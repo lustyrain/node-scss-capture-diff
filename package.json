@@ -1,0 +1,13 @@
+{
+  "name": "node-scss-capture-diff",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "repository": "https://github.com/lustyrain/node-scss-capture-diff.git",
+  "author": "LustyRain <rastyrein.ken.091012@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blink-diff": "^1.0.13",
+    "nodegit": "^0.20.3",
+    "puppeteer": "^1.0.0"
+  }
+}
